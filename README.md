@@ -1,8 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Kundan+Goswami;Aspiring+Data+Analyst;Python+|+SQL+|+Excel;Tableau+|+Power+BI;Learning+Data+Science+Every+Day" />
+</p>
 # 👋 Hi, I'm Kundan Goswami
 
 ### 🚀 Aspiring Data Analyst
-
-Welcome to my GitHub Profile.
 
 ---
 
@@ -15,4 +16,4 @@ Welcome to my GitHub Profile.
 - 📈 Excel
 - 📉 Power BI
 - 📊 Tableau
-- 🌱 Currently learning Git & GitHub
+- 🌱 Git & GitHub

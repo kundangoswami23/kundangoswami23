@@ -28,3 +28,12 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=anaconda" />
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kundangoswami23&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundangoswami23&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>

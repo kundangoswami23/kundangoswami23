@@ -17,3 +17,14 @@
 - 📉 Power BI
 - 📊 Tableau
 - 🌱 Git & GitHub
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=anaconda" />
+</p>

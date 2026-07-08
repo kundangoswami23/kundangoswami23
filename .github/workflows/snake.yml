@@ -1,10 +1,9 @@
 name: Generate Snake
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
-
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 
 permissions:
   contents: write
@@ -17,10 +16,10 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: kundangoswami23
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+          outputs: dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Push Snake
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
